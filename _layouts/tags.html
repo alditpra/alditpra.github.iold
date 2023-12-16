@@ -15,8 +15,8 @@ layout: page
     <div>
      
       <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
+        <i class="fas fa-hashtag" aria-hidden="true"></i>
         {{ t -}}
-         <i class="fas fa-hashtag" aria-hidden="true"></i>
         <span class="text-muted">{{ site.tags[t].size }}</span>
       </a>
     </div>
