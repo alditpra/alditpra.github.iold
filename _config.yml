@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://alditpra.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: alditpra # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: 
 
 # boolean type, the global switch for TOC in posts.
 toc: true
