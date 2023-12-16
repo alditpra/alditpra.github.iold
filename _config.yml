@@ -14,7 +14,7 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: alditpra # the main title
+title: @alditpra # the main title
 
 tagline: ide, catatan, dan cerita # it will display as the sub-title
 
