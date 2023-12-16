@@ -5,14 +5,14 @@
 layout:
   post: Postingan
   category: Kategori
-  tag: Tagar
+  tag: Hashtag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Beranda
   categories: Kategori
-  tags: Tagar
+  tags: Hashtag
   archives: Arsip
   about: Tentang
 
@@ -24,7 +24,7 @@ search:
 
 panel:
   lastmod: Post terkini
-  trending_tags: Hashtag Terpopuler
+  trending_tags: Hashtag
   toc: Daftar Isi
 
 copyright:
@@ -40,7 +40,7 @@ copyright:
     Kecuali jika dinyatakan, Postingan blog di situs ini dilisensikan
     di bawah Lisensi Creative Commons Attribution 4.0 International (CC BY 4.0) oleh penulis.
 
-meta: Didukung oleh Jekyll, Cotes, dan komunitas Github
+meta: Didukung oleh Jekyll dan Github Komunitas
 
 not_found:
   statment: Maaf, kami gagal menemukan URL itu atau memang mengarah ke sesuatu yang tidak ada.
