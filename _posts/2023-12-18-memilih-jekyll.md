@@ -1,6 +1,6 @@
 ---
 title: ! 'Memilih Jekyll: Blogging Gratis yang Statis'
-date: 2023-12-18 00:00:00 +0700
+date: 2023-12-18 00:00:01 +0700
 categories: [Web Development, Jekyll]
 tags: [blogging]
 render_with_liquid: false
