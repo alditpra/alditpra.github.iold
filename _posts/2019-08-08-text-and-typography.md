@@ -1,9 +1,8 @@
 ---
 title: Text and Typography
-date: 2019-08-08 11:33:00 +0800
+date: 2023-12-17 11:33:00 +0700
 categories: [Blogging, Jekyll]
 tags: [tutorial]
-pin: true
 ---
 
 
