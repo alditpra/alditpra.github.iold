@@ -13,4 +13,4 @@ Ada opsi untuk membuat blog menggunakan NodeJS atau sistem manajemen konten sepe
 
 ## Tentang
 
-Situs web ini dibuat untuk.. entahlah..
+Situs web ini dibuat untuk? entahlah.
