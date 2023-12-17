@@ -1,5 +1,5 @@
 ---
-title: Memilih Jekyll: Keunggulan Blogging Gratis yang Statis
+title: Memilih Jekyll - Keunggulan Blogging Gratis yang Statis
 date: 2023-12-17 14:30:00 +0700
 categories: [Web Development, Jekyll]
 tags: [blogging]
