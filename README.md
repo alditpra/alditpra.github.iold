@@ -4,5 +4,5 @@ December 2023. Suatu hari ketika sedang gabut ngantuk-ngantuk.
 {: .prompt-tip }
 
 ## Credits
-[Jekyll]: https://github.com/jekyll/jekyll
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+Jekyll: https://github.com/jekyll/jekyll
+chirpy: https://github.com/cotes2020/jekyll-theme-chirpy/
