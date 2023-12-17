@@ -7,7 +7,6 @@ render_with_liquid: false
 image:
   path: https://repository-images.githubusercontent.com/65252/f2b7c780-70b6-11e9-85d2-f4bda8708a2d
   alt: gambar logo jekyll dari repositorynya
-
 ---
 
 Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya. 
