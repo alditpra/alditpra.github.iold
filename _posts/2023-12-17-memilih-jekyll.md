@@ -5,11 +5,9 @@ categories: [Web Development, Jekyll]
 tags: [blogging]
 ---
 
-Dari berbagai platform blogging open source gratis, saya pilih Jekyll. Meskipun agak rumit karena belum terbiasa, keunggulan gratisnya membuatnya pilihan utama saya dalam membuat blog ini.
+Jekyll, sebagai generator situs statis open-source, memudahkan pembuat situs tanpa perlu server database. Hal ini memberikan dampak positif terhadap kinerja dan keamanan Jekyll. Karakteristik statisnya membuatnya menjadi pilihan yang menarik, menghasilkan situs dengan performa yang seharusnya lebih optimal dan tingkat keamanan yang baik dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya.
 
-Jekyll, sebagai generator situs statis open-source, memudahkan pembuat situs tanpa perlu server database. Hal ini memberikan dampak positif terhadap kinerja dan keamanan Jekyll. Karakteristik statisnya membuatnya menjadi pilihan yang menarik, menghasilkan situs dengan performa yang seharusnya lebih optimal dan tingkat keamanan yang baik dibandingkan dengan CMS umum seperti WordPress.
-
-Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya dalam pemilihan Jekyll, cocok untuk situs web sederhana seperti ini. Meski agak rumit bagi yang belum terbiasa. Keuntungan gratis dan performa unggul membuat Jekyll solusi yang menarik.
+Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya dalam pemilihan Jekyll, cocok untuk situs web sederhana seperti ini. Meski agak rumit bagi yang belum terbiasa, keuntungan gratis dan performa unggul membuat Jekyll solusi yang menarik.
 
 > Bagi yang belum terbiasa dengan konsep situs statis dan bahasa Markdown mungkin membutuhkan waktu untuk beradaptasi, sehingga dapat menjadi tantangan untuk pemula.
 {: .prompt-warning }
