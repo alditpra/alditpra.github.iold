@@ -25,7 +25,7 @@ Performa dan Security
 : Karena statis dan tanpa database, berpengaruh positif terhadap kinerja dan keamanan situs web.
 
 Hosting Gratis
-: Jekyll dapat di-host di GitHub Pages, yang merupakan platform hosting gratis dari GitHub. Ini memungkinkan publikasi web tanpa biaya tambahan. Meskipun untuk "paket" yang gratisan banyak limitasinya. Lumayan.
+: Jekyll dapat di-host di GitHub Pages, yang merupakan platform hosting gratis dari GitHub. Ini memungkinkan publikasi web tanpa biaya tambahan. Meskipun untuk paket yang gratisan banyak limitasinya. Lumayan.
 
 Cocok untuk Situs Web Sederhana
 : Ideal digunakan untuk situs web yang sederhana seperti situs ini.
