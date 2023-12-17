@@ -17,10 +17,10 @@ Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya kenapa memilih 
 
 ## Jekyll
 
-Generator Situs Statis Open-Source
-: Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web.
+Open-Source
+: Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web secara gratis.
 
-Situs Statis HTML
+Generator Situs Statis
 : Tidak seperti CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada juga plugin Wordpress to static semacam itu.
 
 Performa dan Security
