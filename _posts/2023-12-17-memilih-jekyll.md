@@ -10,7 +10,7 @@ Jekyll, sebagai generator situs statis open-source, memudahkan pembuat situs tan
 Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya dalam pemilihan Jekyll, cocok untuk situs web sederhana seperti ini. Meski agak rumit bagi yang belum terbiasa, keuntungan gratis dan performa unggul membuat Jekyll solusi yang menarik.
 
 > Bagi yang belum terbiasa dengan konsep situs statis dan bahasa Markdown mungkin membutuhkan waktu untuk beradaptasi, sehingga dapat menjadi tantangan untuk pemula.
-{: .prompt-warning }
+{: .prompt-danger }
 
 ## Jekyll
 
