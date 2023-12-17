@@ -12,10 +12,10 @@ layout: page
   {% assign sorted_tags = tags | sort_natural %}
 
   {% for t in sorted_tags %}
-  <i class="fa fa-hashtag fa-fw text-muted"></i>
+  
     <div>
-      
-      <a href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
+    <i class="fa fa-hashtag fa-fw text-muted"></i>
+     <a class="fa fa-hashtag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
         {{ t -}}
         <span class="text-muted">{{ site.tags[t].size }}</span>
       </a>
