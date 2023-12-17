@@ -7,7 +7,7 @@ tags: [blogging]     #
 
 ## Prolog
   Ketika sedang gabut, muncul ide terlarang untuk membuat wadah tulisan atau catatan yang bisa dibagikan secara publik. Ada pilihan untuk membuat blog menggunakan Ghost CMS atau WordPress, tetapi content management system seperti itu membutuhkan web hosting. 
-  Sementara ada opsi berbayar, saya lebih memilih membuat blog gratis agar konten yang saya tulis tetap ada tanpa khawatir risiko hilang karena lupa membayar sewa hosting atau resiko lainya. Termasuk domain, yang gratisan aja lah. Diharapkan bisa bertahan permanen.
+  Sementara ada opsi berbayar, saya lebih memilih membuat blog gratis agar konten yang saya tulis tetap ada tanpa khawatir risiko hilang karena lupa membayar sewa hosting atau resiko lainya. Termasuk domain, yang gratisan aja lah. Harapanya agar situs bisa bertahan permanen.
 
 ## Jekyll
 Singkat kata dari banyaknya platform blogging open source (gratis), saya memilih menggunakan Jekyll. Meskipun agak rumit karena belum terbiasa, tapi ya, gratis, mau bagaimana lagi. 
