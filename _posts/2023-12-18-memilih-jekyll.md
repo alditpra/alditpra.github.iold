@@ -35,6 +35,7 @@ Cocok untuk Situs Web Sederhana
 : Ideal digunakan untuk situs web yang sederhana seperti situs ini.
 
 ## Kesimpulan
+
 Mau memilih website statis atau dinamis, keduanya memiliki kelebihan masing-masing. Jika kecepatan, keamanan, dan kesederhanaan penting, maka website statis bisa menjadi pilihan. Di sisi lain, jika interaktivitas dan fungsionalitas dinamis diperlukan, maka website dinamis mungkin lebih sesuai.
 
 Untuk membuat situs web ini, saya pilih Jekyll.
