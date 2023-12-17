@@ -1,5 +1,5 @@
 ---
-title: ! 'Memilih Jekyll: Keunggulan Blogging Gratis yang Statis'
+title: Memilih Jekyll - Keunggulan Blogging Gratis yang Statis
 date: 2023-12-18 14:30:00 +0700
 categories: [Web Development, Jekyll]
 tags: [blogging]
@@ -10,7 +10,7 @@ image:
 
 Jekyll, sebagai generator situs statis open-source, memudahkan pembuat situs tanpa perlu server database. Hal ini memberikan dampak positif terhadap kinerja dan keamanan Jekyll. Karakteristik statisnya membuatnya menjadi pilihan yang menarik, menghasilkan situs dengan performa yang seharusnya lebih optimal dan tingkat keamanan yang baik dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya.
 
-Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meski cara penggunaanya agak rumit bagi yang belum terbiasa, keuntungan gratis dan statis membuat Jekyll pilihan yang hmmm.. sepertinya menarik..
+Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meski cara penggunaanya agak rumit bagi yang belum terbiasa, keuntungan gratis dan statis membuat Jekyll pilihan yang hmmm.. sepertinya boleh juga lah..
 
 > Bagi yang belum terbiasa dengan konsep situs statis dan bahasa Markdown mungkin membutuhkan waktu untuk beradaptasi, sehingga dapat menjadi tantangan untuk pemula.
 {: .prompt-danger }
