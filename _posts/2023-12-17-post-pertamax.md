@@ -9,7 +9,7 @@ tags: [blogging]     #
 Ketika sedang gabut, muncul ide terlarang untuk membuat tempat untuk menulis catatan yang bisa dibagikan secara publik. Ada pilihan untuk membuat blog menggunakan Ghost CMS atau WordPress, tetapi membutuhkan layanan web hosting. Sementara ada opsi berbayar, saya lebih suka mencari yang gratis agar konten yang saya tulis tetap ada tanpa khawatir risiko hilang karena lupa membayar sewa hosting atau resiko lainya.
 
 ## Jekyll
-To the point, dari banyaknya platform blogging gratis, saya memilih menggunakan Jekyll. Meskipun agak rumit karena belum terbiasa, tapi ya, gratis, mau bagaimana lagi. Ada beberapa poin plusnya juga.
+To the point, dari banyaknya platform blogging gratis, saya memilih menggunakan Jekyll. Meskipun agak rumit karena belum terbiasa, tapi ya, gratis, mau bagaimana lagi. 
 
 Generator Situs Statis Open-Source
 : Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web dengan mudah.
