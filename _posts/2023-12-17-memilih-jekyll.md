@@ -3,6 +3,9 @@ title: Memilih Jekyll - Keunggulan Blogging Gratis yang Statis
 date: 2023-12-17 14:30:00 +0700
 categories: [Web Development, Jekyll]
 tags: [blogging]
+image:
+  path: https://github.com/jekyll/brand/blob/master/jekyll-logo-dark-solid.png
+  alt: gambar logo jekyll
 ---
 
 Jekyll, sebagai generator situs statis open-source, memudahkan pembuat situs tanpa perlu server database. Hal ini memberikan dampak positif terhadap kinerja dan keamanan Jekyll. Karakteristik statisnya membuatnya menjadi pilihan yang menarik, menghasilkan situs dengan performa yang seharusnya lebih optimal dan tingkat keamanan yang baik dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya.
