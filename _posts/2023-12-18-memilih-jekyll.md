@@ -10,7 +10,7 @@ image:
 
 ---
 
-Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs dengan performa yang seharusnya lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya. 
+Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya. 
 
 Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meskipun cara penggunaannya sedikit rumit bagi yang belum terbiasa, keuntungan gratis dan karakteristik statis membuat Jekyll menjadi opsi yang menarik.
 
