@@ -25,7 +25,7 @@ Tidak Ada Koneksi ke Database
 : Tidak seperti CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada juga plugin Wordpress to static semacam itu.
 
 Performa dan Security
-: Karena statis dan tanpa database, berpengaruh positif terhadap kinerja dan keamanan situs web.
+: Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
 
 Hosting Gratis
 : Jekyll dapat di-host di GitHub Pages, yang merupakan platform hosting gratis dari GitHub. Ini memungkinkan publikasi web tanpa biaya tambahan. Meskipun untuk paket yang gratisan banyak limitasinya.
