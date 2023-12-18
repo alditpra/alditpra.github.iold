@@ -34,8 +34,8 @@
         </a>
       </li>
       <!-- tentang -->
-      <li class="nav-item">
-        <a href="/tentang" class="nav-link">
+      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/categories' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>Tentang</span>
         </a>
