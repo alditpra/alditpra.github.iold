@@ -34,10 +34,10 @@
         </a>
       </li>
       <!-- cat -->
-      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/' | relative_url }}" class="nav-link">
+      <li class="nav-item{% if page.layout == 'category' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/categories' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
-          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+          <span>Kategori</span>
         </a>
       </li>
       <!-- the real tabs -->
