@@ -46,8 +46,11 @@
         <!-- .nav-item -->
       {% endfor %}
       {% for link in site.data.navigation %}
-      <li class="nav-item{% if link.url == page.url %}{{ " active" }}{% endif %}">
-  <a href="{{ link.url | relative_url }}" class="nav-link">{{ link.title }}</a>
+        <li class="nav-item{% if link.url == page.url %}{{ " active" }}{% endif %}">
+          <a href="{{ link.url }}" class="page-link">{{ link.title }}</a>
+             </li>
+{% endfor %}
+      
 {% endfor %}
     </ul>
   </nav>
