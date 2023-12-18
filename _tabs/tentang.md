@@ -13,4 +13,4 @@ Ada opsi untuk membuat blog menggunakan Headless CMS, atau CMS jaman perang sepe
 
 ## Tentang
 
-Situs web ini dibuat untuk.. entahlah..
+Situs web ini dibuat untuk? entahlah.
