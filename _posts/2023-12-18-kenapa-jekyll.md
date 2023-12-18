@@ -31,7 +31,7 @@ Hosting Gratis
 : Jekyll dapat di-host di GitHub Pages, yang merupakan platform hosting gratis dari GitHub. Ini memungkinkan publikasi web tanpa biaya tambahan. Meskipun untuk paket yang gratisan banyak limitasinya.
 
 Instalasi Mudah
-: Integrasi Jekyll dan Github Pages memudahkan kita membuat situs web
+: Integrasi Jekyll dan Github Pages memudahkan kita membuat situs web.
 
 Cocok untuk Situs Web Sederhana
 : Ideal digunakan untuk situs web yang sederhana seperti situs ini.
